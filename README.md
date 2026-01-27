@@ -10,3 +10,7 @@ Predicting next-day stock movements whether it goes up or down for Reliance Indu
 ## Tools
 Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | yfinance | ta
 
+## How to Run
+1. Clone the repo
+2. Install dependencies: pip install -r requirements.txt
+3. Run main.py or open the noteboo
