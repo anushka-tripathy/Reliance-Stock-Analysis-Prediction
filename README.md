@@ -13,4 +13,4 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | yfinance | ta
 ## How to Run
 1. Clone the repo
 2. Install dependencies: pip install -r requirements.txt
-3. Run main.py or open the noteboo
+3. Run main.py or open the notebook.
